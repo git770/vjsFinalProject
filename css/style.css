@@ -1,3 +1,52 @@
+body {
+    margin : 0;
+}
+
 .hidden {
     display : none;
 }
+
+.clockTitle {
+    color : white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 5em;
+}
+
+#nickMention, #greeting {
+    text-align: center;
+    color : white;
+}
+
+#login-form {
+   text-align: center;
+}
+
+#todoDiv {
+    text-align: center; 
+}
+
+#todo-form input{
+    width: 250px;
+ }
+
+#todoMention {
+    color : white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0%;
+    color: white;
+}
+
+li button {
+    margin-left: 10px;
+}
+
+#weather {
+    text-align: right; 
+    color : white;
+    padding: 10px;
+}
+
